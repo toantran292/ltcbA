@@ -1,6 +1,5 @@
 ---
 title: "Lập trình căn bẩn A"
-permalink: /th.Cuong
 layout: default
 ---
 
