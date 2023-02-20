@@ -1,9 +1,3 @@
----
-title: "Lập trình căn bẩn A - Bài 1"
-permalink: /th.Cuong/bai_1
-layout: default
----
-
 # **Cấu trúc chương trình C**
 
 ## **Câu 1:**
