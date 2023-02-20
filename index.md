@@ -4,6 +4,6 @@ permalink: /
 layout: default
 ---
 
-# Hướng dẫn môn Lập trình căn bản A
+# Lập trình căn bản A
 
-## [Thầy Cường](th.Cuong/index.md)
+## **[1. Thầy Cường](th.Cuong/index.md)**
