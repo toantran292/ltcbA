@@ -1,5 +1,5 @@
 ---
-title: "Lập trình căn bẩn A"
+title: "Lập trình căn bản A"
 permalink: /
 layout: default
 ---
