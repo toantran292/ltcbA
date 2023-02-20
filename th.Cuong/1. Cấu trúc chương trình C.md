@@ -1,5 +1,6 @@
 ---
 title: "Lập trình căn bản A"
+permalink: /th.Cuong/bai_1
 layout: default
 ---
 
