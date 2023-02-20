@@ -1,3 +1,8 @@
+---
+title: "Lập trình căn bẩn A"
+layout: default
+---
+
 # **Cấu trúc chương trình C**
 
 ## **Câu 1:**
